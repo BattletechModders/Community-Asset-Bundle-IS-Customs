@@ -32,10 +32,9 @@ Gripen LAM and Bot
 VF11 LAM
 Freedom
 Thunderstone
-Generic Superheavy 2
+Generic Superheavy 1-8
 Ettin
 Assassin 2
-Champion LAM
 Stiletto (StarDrive)
 Mushu
 GenericLight1
