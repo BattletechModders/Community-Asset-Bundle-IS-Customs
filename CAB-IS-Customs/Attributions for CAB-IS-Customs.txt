@@ -8,6 +8,7 @@ Cyclone
 Dagoth
 Sorcerer
 Valkyrie II
+Balar
 
 Ion Raptor
 Models:
