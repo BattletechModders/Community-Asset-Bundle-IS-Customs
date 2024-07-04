@@ -2,6 +2,10 @@ Changelog for CAB-IS-Customs
 
 -----------------------------------------------------
 
+1.2
+
+Added the JCrab (Japanese BT Crab)
+
 1.1
 
 Added the Balar

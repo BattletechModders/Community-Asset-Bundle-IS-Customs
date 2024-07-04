@@ -9,6 +9,7 @@ Dagoth
 Sorcerer
 Valkyrie II
 Balar
+JCrab
 
 Ion Raptor
 Models:
