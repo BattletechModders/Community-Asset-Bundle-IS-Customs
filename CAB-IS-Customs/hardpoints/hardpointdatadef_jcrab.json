@@ -57,7 +57,7 @@
 				[
 					"chrprfweap_jcrab_lefttorso_ac10_bh1",
 					"chrprfweap_jcrab_lefttorso_ac20_bh1",
-					"chrprfweap_jcrab_lefttorso_ams_ah1",
+					"chrprfweap_jcrab_lefttorso_ams_bh1",
 					"chrprfweap_jcrab_lefttorso_arrow_mh1",
 					"chrprfweap_jcrab_lefttorso_artillery_bh1",
 					"chrprfweap_jcrab_lefttorso_gauss_bh1",
@@ -119,7 +119,7 @@
 			"location": "righttorso",
 			"weapons": [
 				[
-					"chrprfweap_jcrab_righttorso_ams_ah1",
+					"chrprfweap_jcrab_righttorso_ams_bh1",
 					"chrprfweap_jcrab_righttorso_laser_eh1",
 					"chrprfweap_jcrab_righttorso_lrm10_mh1",
 					"chrprfweap_jcrab_righttorso_lrm20_mh1",
