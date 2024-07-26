@@ -44,6 +44,7 @@ GenericLight2
 GenericLight3
 GenericLight4
 331Genlight2
+Coehorn
 
 Transient74 and IonRaptor
 Models:
