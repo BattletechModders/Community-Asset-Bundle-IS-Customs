@@ -45,6 +45,7 @@ GenericLight3
 GenericLight4
 331Genlight2
 Coehorn
+BattleHammer
 
 Transient74 and IonRaptor
 Models:

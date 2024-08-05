@@ -2,6 +2,10 @@ Changelog for CAB-IS-Customs
 
 -----------------------------------------------------
 
+1.4
+
+Added the BattleHammer
+
 1.3
 
 Added the Coehorn
