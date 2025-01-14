@@ -1,0 +1,78 @@
+{
+  "ID": "hardpointdatadef_slowpoke",
+  "HardpointData": [
+    {
+      "Location": "head",
+      "weapons": [],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "centertorso",
+      "weapons": [
+        [
+          "chrPrfWeap_slowpoke_centertorso_laser_eh1"
+        ],
+        [
+          "chrPrfWeap_slowpoke_centertorso_laser_eh2"
+        ]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "leftarm",
+      "weapons": [
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "lefttorso",
+      "weapons": [
+        [
+          "chrPrfWeap_slowpoke_lefttorso_mg_bh1",
+          "chrPrfWeap_slowpoke_lefttorso_laser_eh1",
+          "chrPrfWeap_slowpoke_lefttorso_srm2_mh1"
+        ],
+        [
+          "chrPrfWeap_slowpoke_lefttorso_mg_bh2",
+          "chrPrfWeap_slowpoke_lefttorso_laser_eh2",
+          "chrPrfWeap_slowpoke_lefttorso_srm2_mh2"
+        ],
+        [
+          "chrPrfWeap_slowpoke_lefttorso_laser_eh3"
+        ]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "rightarm",
+      "weapons": [
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "righttorso",
+      "weapons": [
+        [          
+          "chrPrfWeap_slowpoke_righttorso_mg_bh1",
+          "chrPrfWeap_slowpoke_righttorso_laser_eh1",
+          "chrPrfWeap_slowpoke_righttorso_srm2_mh1"
+        ],
+        [          
+          "chrPrfWeap_slowpoke_righttorso_mg_bh2",
+          "chrPrfWeap_slowpoke_righttorso_laser_eh2",
+          "chrPrfWeap_slowpoke_righttorso_srm2_mh2"
+        ],
+        [
+          "chrPrfWeap_slowpoke_righttorso_laser_eh3"
+        ]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    }
+  ]
+}

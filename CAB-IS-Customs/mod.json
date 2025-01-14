@@ -2666,7 +2666,33 @@
 		
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battlehammer/chrprfweap_battlehammer_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_battlehammerbase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battlehammer/chrprfweap_battlehammer_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_battlehammerbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battlehammer/chrprfweap_battlehammer_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_battlehammerbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrPrfMech_slowpokebase-001.prefab", "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/slowpoke/chrPrfComp_slowpoke_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/components/slowpoke/chrPrfComp_slowpoke_centertorso_jumpjet.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/components/slowpoke/chrPrfComp_slowpoke_leftshoulder_headlight.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/components/slowpoke/chrPrfComp_slowpoke_rightshoulder_headlight.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/components/slowpoke/chrPrfComp_slowpoke_simgame.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_centertorso_laser_eh1.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_centertorso_laser_eh2.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_lefttorso_mg_bh1.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_lefttorso_mg_bh2.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_lefttorso_srm2_mh1.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_lefttorso_srm2_mh2.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_lefttorso_laser_eh1.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_lefttorso_laser_eh2.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_lefttorso_laser_eh3.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_righttorso_mg_bh1.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_righttorso_mg_bh2.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_righttorso_srm2_mh1.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_righttorso_srm2_mh2.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_righttorso_laser_eh1.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_righttorso_laser_eh2.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/weapons/slowpoke/chrPrfWeap_slowpoke_righttorso_laser_eh3.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" }
 	
     ]
 }

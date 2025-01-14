@@ -20,6 +20,10 @@ Ion Zeus
 Fafnir II
 Atlas IV
 
+FrostRaptor
+Models:
+Slowpoke
+
 Transient74
 Models:
 Hazard
