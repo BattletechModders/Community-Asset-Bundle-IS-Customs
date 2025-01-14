@@ -2668,8 +2668,8 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/battlehammer/chrprfweap_battlehammer_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_battlehammerbase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrPrfMech_slowpokebase-001.prefab", "AssetBundleName": "chrprfmech_slowpokebase-001" },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/slowpoke/chrPrfComp_slowpoke_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/chrprfmech_slowpokebase-001.prefab", "AssetBundleName": "chrprfmech_slowpokebase-001" },
+		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/components/slowpoke/chrPrfComp_slowpoke_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_slowpokebase-001" },
 		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/components/slowpoke/chrPrfComp_slowpoke_centertorso_jumpjet.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
 		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/components/slowpoke/chrPrfComp_slowpoke_leftshoulder_headlight.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
 		{  "Type": "Prefab",  "Path": "assets/character/mechs/prefabs/components/slowpoke/chrPrfComp_slowpoke_rightshoulder_headlight.prefab",  "AssetBundleName": "chrprfmech_slowpokebase-001" },
