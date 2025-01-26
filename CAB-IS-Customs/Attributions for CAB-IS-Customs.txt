@@ -23,6 +23,7 @@ Atlas IV
 FrostRaptor
 Models:
 Slowpoke
+Foxfire
 
 Transient74
 Models:
