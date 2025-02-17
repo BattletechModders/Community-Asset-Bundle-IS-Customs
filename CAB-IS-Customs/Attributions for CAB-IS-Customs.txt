@@ -24,6 +24,7 @@ FrostRaptor
 Models:
 Slowpoke
 Foxfire
+Junior
 
 Transient74
 Models:
