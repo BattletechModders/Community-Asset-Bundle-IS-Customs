@@ -2775,7 +2775,35 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/junior/chrPrfWeap_junior_righttorso_mg_bh1.prefab",  "AssetBundleName": "chrprfmech_juniorbase-001"  },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/junior/chrPrfWeap_junior_righttorso_mg_bh2.prefab",  "AssetBundleName": "chrprfmech_juniorbase-001"  },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/junior/chrPrfWeap_junior_righttorso_ams_ah1.prefab",  "AssetBundleName": "chrprfmech_juniorbase-001"  },
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/junior/chrPrfWeap_junior_righttorso_srm2_mh1.prefab",  "AssetBundleName": "chrprfmech_juniorbase-001"}
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/junior/chrPrfWeap_junior_righttorso_srm2_mh1.prefab",  "AssetBundleName": "chrprfmech_juniorbase-001"},
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_stardriveapollobase-001.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/stardriveapollo/chrPrfComp_stardriveapollo_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/stardriveapollo/chrPrfComp_stardriveapollo_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/stardriveapollo/chrPrfComp_stardriveapollo_leftshoulder_headlight.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/stardriveapollo/chrPrfComp_stardriveapollo_rightshoulder_headlight.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/stardriveapollo/chrPrfComp_stardriveapollo_simgame.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_centertorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_centertorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_leftarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_lefttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_lefttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_rightarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/stardriveapollo/chrPrfWeap_stardriveapollo_righttorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_stardriveapollobase-001" }	
 	
     ]
 }

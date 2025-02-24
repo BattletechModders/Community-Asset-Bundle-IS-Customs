@@ -25,6 +25,7 @@ Models:
 Slowpoke
 Foxfire
 Junior
+Apollo
 
 Transient74
 Models:

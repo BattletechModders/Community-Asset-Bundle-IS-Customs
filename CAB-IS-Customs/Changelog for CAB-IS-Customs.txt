@@ -2,6 +2,10 @@ Changelog for CAB-IS-Customs
 
 -----------------------------------------------------
 
+1.8
+
+Added the Stardrive Apollo
+
 1.7
 
 Added the Stardrive Junior

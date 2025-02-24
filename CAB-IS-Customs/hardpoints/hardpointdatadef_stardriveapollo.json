@@ -1,0 +1,74 @@
+{
+  "ID": "hardpointdatadef_stardriveapollo",
+  "HardpointData": [
+    {
+      "Location": "head",
+      "weapons": [],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "centertorso",
+      "weapons": [
+        [
+          "chrPrfWeap_stardriveapollo_centertorso_flamer_eh1",
+          "chrPrfWeap_stardriveapollo_centertorso_laser_eh1",
+          "chrPrfWeap_stardriveapollo_centertorso_gauss_bh1",
+          "chrPrfWeap_stardriveapollo_centertorso_mg_bh1"
+        ]        
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "leftarm",
+      "weapons": [
+        [
+          "chrPrfWeap_stardriveapollo_leftarm_gauss_bh1",
+          "chrPrfWeap_stardriveapollo_leftarm_mg_bh1"
+        ],
+		[
+          "chrPrfWeap_stardriveapollo_leftarm_flamer_eh2",
+          "chrPrfWeap_stardriveapollo_leftarm_laser_eh2"
+		]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "lefttorso",
+      "weapons": [
+        [
+          "chrPrfWeap_stardriveapollo_lefttorso_lrm5_mh1",
+          "chrPrfWeap_stardriveapollo_lefttorso_srm2_mh1"
+        ]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "rightarm",
+      "weapons": [
+        [
+          "chrPrfWeap_stardriveapollo_rightarm_flamer_eh1",
+          "chrPrfWeap_stardriveapollo_rightarm_gauss_bh1",
+          "chrPrfWeap_stardriveapollo_rightarm_laser_eh1",
+          "chrPrfWeap_stardriveapollo_rightarm_mg_bh1"
+        ]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    },
+    {
+      "Location": "righttorso",
+      "weapons": [
+        [         
+          "chrPrfWeap_stardriveapollo_righttorso_lrm5_mh1",
+          "chrPrfWeap_stardriveapollo_righttorso_srm2_mh1"
+        ]
+      ],
+      "blanks": [],
+      "mountingPoints": []
+    }
+  ]
+}
