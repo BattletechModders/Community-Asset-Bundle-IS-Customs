@@ -26,6 +26,7 @@ Slowpoke
 Foxfire
 Junior
 Apollo
+Mite
 
 Transient74
 Models:

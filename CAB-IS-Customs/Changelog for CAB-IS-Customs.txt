@@ -2,6 +2,10 @@ Changelog for CAB-IS-Customs
 
 -----------------------------------------------------
 
+1.9
+
+Added the Mite
+
 1.8
 
 Added the Stardrive Apollo
