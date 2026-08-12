@@ -2,6 +2,10 @@ Changelog for CAB-IS-Customs
 
 -----------------------------------------------------
 
+2.3
+
+Added Generic Superheavy 9
+
 2.2
 
 Added Generic Superheavy 10
